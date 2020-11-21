@@ -1,10 +1,10 @@
-﻿namespace Factory_method
+﻿namespace Wzorce_projektowe
 {
     class Program
     {
         static void Main(string[] args)
         {
-            new Lab5FactoryMethod().Run();
+            new Lab7Bridge().Run();
         }
     }
 

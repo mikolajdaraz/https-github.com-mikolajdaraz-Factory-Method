@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Factory_method
+namespace Wzorce_projektowe
 {
     class Lab5FactoryMethod : Lab
     {
